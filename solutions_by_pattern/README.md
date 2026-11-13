@@ -15,6 +15,7 @@ Each folder has:
 | --- | --- | --- | --- |
 | Two Pointers | Rain Catcher (#11) | [tutorial](01_two_pointers/1_rain_catcher/tutorial.md) | Start wide, always move the shorter side inward |
 | | Zero-Sum Trades (#15) | [tutorial](01_two_pointers/2_zero_sum_trades/tutorial.md) | Sort, fix one number, then two-pointer Two Sum. Skip duplicates in 2 places |
+| | Mirror Labels (#125 + #680) | [tutorial](01_two_pointers/3_mirror_labels/tutorial.md) | Walk in from both ends; on the first mismatch, try skipping **each** side |
 | Sliding Window | Longest Unique Playlist (#3) | [tutorial](02_sliding_window/1_longest_unique_playlist/tutorial.md) | Grow right; on a repeat jump left with `max`, never backwards |
 | | Scrambled DNA Motif (#438) | [tutorial](02_sliding_window/2_scrambled_dna_motif/tutorial.md) | Fixed window plus a `matched` counter for O(1) anagram checks |
 | Binary Search | Rotated Sensor Log (#33) | [tutorial](03_binary_search/1_rotated_sensor_log/tutorial.md) | One half is always sorted. Check whether the target is in it |

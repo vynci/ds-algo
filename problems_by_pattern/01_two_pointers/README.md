@@ -51,5 +51,6 @@ while (left < right) {
 | --- | ------------------------------------------ | ----------------------------------------------------------------------------------------- | ------ |
 | 1   | [Rain Catcher](1_rain_catcher/problem.md)  | [#11 Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | Medium |
 | 2   | [Zero-Sum Trades](2_zero_sum_trades/problem.md) | [#15 3Sum](https://leetcode.com/problems/3sum/)                                       | Medium |
+| 3   | [Mirror Labels](3_mirror_labels/problem.md) | [#125 Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) + [#680 Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/) | Easy+ |
 
-**Warm-ups** if these feel hard: [#125 Valid Palindrome](https://leetcode.com/problems/valid-palindrome/), [#167 Two Sum II](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/).
+**Warm-ups** if these feel hard: [#344 Reverse String](https://leetcode.com/problems/reverse-string/), [#167 Two Sum II](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/). Problem 3 (Mirror Labels) is also a gentler start than 1 and 2.

@@ -1,6 +1,6 @@
 # Problems by Pattern
 
-There are two problems per pattern. Each one is a common LeetCode interview problem with a new story around it, and links to the original so you can also submit it there.
+There are two problems per pattern (three for Two Pointers). Each one is a common LeetCode interview problem with a new story around it, and links to the original so you can also submit it there.
 
 Each **pattern folder** has a `README.md` covering the concept: when to recognize it, a JS template, complexity, and common bugs. **Read that first.**
 
@@ -17,6 +17,7 @@ Some tests are deliberate **traps**. Each catches a common mistake, and its name
 | --- | --- | --- | --- |
 | [Two Pointers](01_two_pointers/README.md) | [Rain Catcher](01_two_pointers/1_rain_catcher/problem.md) | [#11 Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | Medium |
 | | [Zero-Sum Trades](01_two_pointers/2_zero_sum_trades/problem.md) | [#15 3Sum](https://leetcode.com/problems/3sum/) | Medium |
+| | [Mirror Labels](01_two_pointers/3_mirror_labels/problem.md) | [#125 Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) + [#680 Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/) | Easy+ |
 | [Sliding Window](02_sliding_window/README.md) | [Longest Unique Playlist](02_sliding_window/1_longest_unique_playlist/problem.md) | [#3 Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Medium |
 | | [Scrambled DNA Motif](02_sliding_window/2_scrambled_dna_motif/problem.md) | [#438 Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | Medium |
 | [Binary Search](03_binary_search/README.md) | [Rotated Sensor Log](03_binary_search/1_rotated_sensor_log/problem.md) | [#33 Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | Medium |
